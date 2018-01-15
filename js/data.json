@@ -1,0 +1,68 @@
+{
+  "roles": [
+    {
+      "id":"1",
+      "name": "Leaders",
+      "type": "",
+      "description": "",
+      "imgurl":"./img/specialist.png",
+      "characters": [
+        { "name": "Alientooth", "imgurl":"./img/specialists/alientooth.png" },
+        { "name": "Bubblerun", "imgurl":"./img/specialists/bubblerun.png" },
+        { "name": "Creesus", "imgurl":"./img/specialists/creesus.png" },
+        { "name": "Okrikoom", "imgurl":"./img/specialists/okrikoom.png" },
+        { "name": "Shadowmaxx", "imgurl":"./img/specialists/shadowmaxx.png" },
+        { "name": "Syrelada", "imgurl":"./img/specialists/syrelada.png" }
+      ]
+    },
+    {
+      "id":"2",
+      "name": "Tanks",
+      "type": "",
+      "description": "",
+      "imgurl":"./img/warrior.png",
+      "characters": [
+        { "name": "Azhel", "imgurl":"./img/warriors/azhel.png" },
+        { "name": "Fishtank", "imgurl":"./img/warriors/fishtank.png" },
+        { "name": "Hoofsniffer", "imgurl":"./img/warriors/hoofsniffer.png" },
+        { "name": "Skulldragger", "imgurl":"./img/warriors/skulldragger.png" }
+      ]
+    },
+    {
+      "id":"3",
+      "name": "Healers",
+      "type": "",
+      "description": "",
+      "imgurl":"./img/support.png",
+      "characters": [
+        { "name": "Creesus", "imgurl":"./img/supports/creesus.png" },
+        { "name": "Detented", "imgurl":"./img/supports/detented.png" },
+        { "name": "Icejitsu", "imgurl":"./img/supports/icejitsu.png" },
+        { "name": "Rakluz", "imgurl":"./img/supports/rakluz.png" },
+        { "name": "Sisterjill", "imgurl":"./img/supports/sisterjill.png" }
+      ]
+    },
+    {
+      "id":"4",
+      "name": "Damage",
+      "type": "",
+      "description": "",
+      "imgurl":"./img/assassin.png",
+      "characters": [
+        { "name": "Alientooth", "imgurl":"./img/assassins/alientooth.png" },
+        { "name": "Asttrine", "imgurl":"./img/assassins/asttrrine.png" },
+        { "name": "Bubblerun", "imgurl":"./img/assassins/bubblerun.png" },
+        { "name": "Feelmyplums", "imgurl":"./img/assassins/feelmyplums.png" },
+        { "name": "Kilsteal", "imgurl":"./img/assassins/kilsteal.png" },
+        { "name": "Nutkitchen", "imgurl":"./img/assassins/nutkitchen.png" },
+        { "name": "Nyzz", "imgurl":"./img/assassins/nyzz.png" },
+        { "name": "Ogshrek", "imgurl":"./img/assassins/ogshrek.png" },
+        { "name": "Okrikoom", "imgurl":"./img/assassins/okrikoom.png" },
+        { "name": "Predator", "imgurl":"./img/assassins/predator.png" },
+        { "name": "Shadowmaxx", "imgurl":"./img/assassins/shadowmaxx.png" },
+        { "name": "Syrelada", "imgurl":"./img/assassins/syrelada.png" },
+        { "name": "Wraithshroud", "imgurl":"./img/assassins/wraithshroud.png" }
+      ]
+    }
+  ]
+}
