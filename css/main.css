@@ -18,7 +18,7 @@ body {
     font-family: Oswald, Arial, Helvetica, sans-serif;
 }
 body{
-    background-color: #000;
+    background-color: #151515;
 }
 .title-bar {
     background-color: #212121;
@@ -107,6 +107,7 @@ main {
     padding-top: .2rem;
     padding-bottom: .2rem;
     text-shadow: 1.5px 1px #222;
+    box-shadow: 2px 2px 2px #111;
 }
 
 .jumbotron {
@@ -170,7 +171,7 @@ main {
 #guildlist {
     position: relative;
     height: 100%;
-    background-color: #000;
+    background-color: #151515;
     background-size: cover;
     
 }
@@ -251,7 +252,6 @@ main {
     margin-bottom: 10rem;
 }
 #charlist{
-    background-color: #000;
     height: 100%;
     padding-bottom: 7rem;
 }
